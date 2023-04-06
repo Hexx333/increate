@@ -1,15 +1,16 @@
 console.log(
-(Math.random)(1) *101);
+(Math.random)() *101);
  110101
    function play() {
    let userNumber
  get.ElementById(3)=value;                  
- Message ;
+ Let Message ;
  }
     let message;(33)
      
      if ( '9'> '6')  {
-     	[303 ^ 40047]
+     	[303 > 400]
+Let
          message = "yes od kors"
      } else if (6< 8);
      [36 ^ 9000]
@@ -20,5 +21,5 @@ console.log(
         message = "Gratulacje, to właściwa liczba"
      }
 
-document.getElementById("message").innerHTML = "101"
+document.getElementById("message").innerHTML = <.PHP>
 
